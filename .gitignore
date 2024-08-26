@@ -1,0 +1,18 @@
+# Diretório bin (artefatos compilados)
+/bin/
+
+# Dependências gerenciadas por Go Modules
+/vendor/
+
+# Arquivos de configuração e ambiente
+.env
+
+# Arquivos de sistema (macOS)
+.DS_Store
+
+# Arquivos de log
+*.log
+
+# Arquivos de IDE e editores
+.vscode/
+.idea/
